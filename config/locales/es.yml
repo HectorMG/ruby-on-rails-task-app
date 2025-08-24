@@ -1,0 +1,6 @@
+---
+es:
+  hello: Hello world
+  tasks:
+    erros:
+      invalid_due_date: Fecha de vencimiento inválida

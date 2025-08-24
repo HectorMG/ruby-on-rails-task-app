@@ -61,4 +61,5 @@ group :development do
   gem "simple_form"
   gem "pry"
   gem "pry-doc"
+  gem "i18n-tasks"
 end
